@@ -1,0 +1,12 @@
+{
+  "questionnaires": [
+    {
+        "id": 1,
+        "questions": [
+            {"question": "What language is your favorite?", "answers": ["JavaScript", "TypeScript", "CoffeeScript"], "required": true, "additionalQuestion" : "Why do you like TypeScript?"},
+            {"question": "What do you like about programing?"},
+            {"question": "How was the assignment?", "answers" : ["Easy", "Normal", "Hard", "Other"],  "required": true}
+        ]
+    }
+  ]
+}
